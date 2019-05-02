@@ -1,0 +1,1 @@
+clear; g++ -std=c++11 *.cpp -o FT_Bakary.exe; ./FT_Bakary.exe
